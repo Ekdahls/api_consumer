@@ -1,4 +1,7 @@
 class UsersController < ApplicationController
+
+  # HEJ SIMON
+
   require 'rest_client'
 
   API_BASE_URL = "http://localhost:3000/api" # base url of the API
