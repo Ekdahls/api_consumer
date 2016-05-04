@@ -1,0 +1,5 @@
+<%= form_tag users_path, :method => :post do %>
+   Email : <%=text_field_tag :email%><br/>
+   Username :<%=text_field_tag :username%><br/><br/>
+   <%=submit_tag "save"%>
+<%end%>
