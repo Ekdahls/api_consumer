@@ -1,6 +1,7 @@
 class UsersController < ApplicationController
 
   # HEJ SIMON
+  # HEJ DANIEL
 
   require 'rest_client'
 
